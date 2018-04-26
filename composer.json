@@ -1,0 +1,20 @@
+{
+    "name": "taylor/react-links-api",
+    "description": "Rest Api for React Full Stack Course Project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Taylor Kev",
+            "email": "taylorwebk@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.10",
+        "illuminate/database": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
